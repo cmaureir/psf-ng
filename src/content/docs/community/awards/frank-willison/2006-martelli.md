@@ -4,11 +4,10 @@ description: ...
 ---
 
 
-# 
+#
 
 
 
-![../martelli.jpg](../martelli.jpg)
 by Alex Martelli, 2006 recipient of the [Frank Willison Award](../)
 
 
