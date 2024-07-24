@@ -6,6 +6,17 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: '',
+			defaultLocale: 'root',
+			locales: {
+				root: {
+					label: "English",
+					lang: "en",
+				},
+				es: {
+					label: "Spanish",
+					lang: "es",
+				}
+			},
 			logo : {
 				dark: './src/assets/dark-psf-logo.png',
 				light: './src/assets/light-psf-logo.png',
